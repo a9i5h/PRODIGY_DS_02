@@ -9,8 +9,6 @@ The task was to perform **Exploratory Data Analysis (EDA)** on the Titanic datas
 ## 📂 Files in this Repository
 - `Titanic_EDA.ipynb` → Jupyter Notebook with complete analysis  
 - `Titanic_EDA.html` → Exported HTML version of the notebook for easy viewing  
-- `train.csv` → Training dataset used for analysis  
-- `test.csv` → Test dataset provided  
 - `README.md` → Project documentation  
 
 ---
